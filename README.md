@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Roman Hájek
-- 🌱 I’m currently learning ⚡and ₿
-- 👀 I’m interested in exploring 🌎
+- 🤑 Currently working on automated quantitative option trading strategies
 
 <!---
 hajekr/hajekr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
